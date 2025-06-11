@@ -1,4 +1,5 @@
 # 🌍 Impact of Studying Abroad on Students' Mental Health
+mentalhealth.jpg
 
 ## 🧠 Context
 
