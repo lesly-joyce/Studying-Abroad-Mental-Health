@@ -45,7 +45,7 @@ This project is part of my personal portfolio to demonstrate my skills in:
 
 ## 🔗 See Also
 
-* 📘 [Related Medium article (coming soon)](#)
+* 📘 Medium article: https://medium.com/@leslysiewe/666af6df96ab
 * 💼 My LinkedIn profile: https://www.linkedin.com/in/lesly-joyce-siewe/
 * 🧠 Actively seeking a Data / Business Analyst position in Milan (Summer 2025)
 
